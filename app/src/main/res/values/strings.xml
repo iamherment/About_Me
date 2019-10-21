@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="profile_pic">Profile Picture</string>
+    <string name="my_desc">Foods I like: Ice Cream
+    \n
+    \nHobbies: Beat Hui Qi
+    \n
+    \n
+    </string>
+</resources>
